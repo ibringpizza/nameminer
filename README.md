@@ -3,7 +3,7 @@ nameminer allows you to generate a list of available domains (.com/.net) from co
 
 The Jackson JSON ObjectMapper and Apache Commons Net 3.6 libraries are needed to run nameminer.
 
-Functionality:
+#### Functionality:
 
 combine LIST LIST - prefix lists + suffix lists (seperated by commas)
 
@@ -43,7 +43,7 @@ toggler - toggles regged tlds
 
 help - print the help menu
 
-Important notes:
+#### Important notes:
 
 On launch, all files are loaded from a folder called "name miner lists" in the current working directory
 
